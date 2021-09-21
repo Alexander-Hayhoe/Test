@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  font-weight: normal;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 217, 255);
+  font-weight: bolder;
+}
+
+#button_1 {
+  color: red;
+}
